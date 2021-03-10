@@ -1,3 +1,4 @@
 pdf/*
 _build
 python*
+.vscode/settings.json
