@@ -1,12 +1,16 @@
 .. You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to F5 Telemetry Streaming with Prometheus lab guide!
+Welcome to F5 Telemetry Streaming with Prometheus lab guide
 ==============================================
 
-- **Lab goals:** Demonstrate Robust F5 **BIG-IP visibility** and metrics for F5 BIGIP using** F5 Telemetry Streaming** with **Prometheus & Grafana**. 
-- **Other goals:** Leverage DevOps tools and Declarative APIs to enable F5 TS with Prometheus
-- Demonstrate a Telemetry Streaming Pull Target with Prometheus
+**Lab goals:**
+
+- Demonstrate Robust F5 **BIG-IP visibility** and metrics for F5 BIGIP using** F5 Telemetry Streaming** with **Prometheus & Grafana**. 
+
+**Other goals:** 
+
+- Leverage DevOps tools and Declarative APIs to enable F5 TS with Prometheus
 
 .. image:: NAP_index swap.png
    :align: center
