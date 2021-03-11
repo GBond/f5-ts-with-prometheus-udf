@@ -6,7 +6,7 @@ Welcome to F5 Telemetry Streaming with Prometheus lab guide!
 
 .. warning :: For any remark or mistake in this lab, please send a Teams chat to Gee Chow.
 
-.. image:: NAP_index.png
+.. image:: NAP_index swap.png
    :align: center
 
 .. toctree::
