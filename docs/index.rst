@@ -6,15 +6,13 @@ Welcome to F5 Telemetry Streaming with Prometheus lab guide
 
 **Lab goals:**
 
-- Demonstrate Robust F5 **BIG-IP visibility** and metrics for F5 BIGIP using **F5 Telemetry Streaming** with **Prometheus & Grafana**. 
+- Demonstrate Robust F5 **BIG-IP visibility** and metrics for F5 BIGIP using** F5 Telemetry Streaming** with **Prometheus & Grafana**. 
 
 **Other goals:** 
 
-- Leverage **DevOps tools** and **Declarative APIs** 
-- Demonstrate a Telemetry Streaming **Pull Target** 
+- Leverage DevOps tools and Declarative APIs to enable F5 TS with Prometheus
 
-
-.. image:: f5-ts-grafana.png
+.. image:: NAP_index swap.png
    :align: center
 
 .. toctree::

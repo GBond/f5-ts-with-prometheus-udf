@@ -1,18 +1,34 @@
-Module 1 - Using DevOps tools    
+Environment Setup
 ================================================
 
-**Goals**: 
+**Goal**: 
 ----------------
--  Become familair with Vs Code
--  Connect the F5 VS Code Extension wit the BIG-IP instance
+To set up your environment so you can use all the resources needed to create your documentation: GitHub, Sourcetree, VS Code, and Read the Docs. 
 
-**Steps**
+**Prerequisites**: 
+------------------
+- Windows or Mac with Internet Access
+- Admin rights to install applications on your PC
 
-- Acess VS Code (web edition) in UDF by going to: Components > "Client & Prometheus" System Component > Access > VS Code 
+Other files and folder in this directory:
+------------------------------------
 
-.. image:: NAP_index swap.png
-:align: center
+docs/**class1**/**workflow.rst** 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Displays the overall workflow used to create your document. 
 
-- In VS Code, click the F5 Extension icon to the the Extension view. Verify that a host (F5 device) has already been added named "admin@10.1.1.7" and click on the name to connect.
-- Enter the password in the prompt: F5d3vops$. You are now connected to the device.
-- Click an area next to the "welcome" tab to open a new file window. You will copy and paste the TS declaration in the new file window during the next step.  
+docs/**class1**/**images**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Folder used to store images used in class1, used in class1.rst or intro.rst.  
+
+.. toctree::
+   :titlesonly:
+   :maxdepth: 2
+   :caption: Contents:
+   :glob:
+
+   workflow
+   module*/module*
+   
+
+
