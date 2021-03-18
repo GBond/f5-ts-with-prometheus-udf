@@ -14,7 +14,7 @@ Welcome to F5 Telemetry Streaming with Prometheus lab guide
 - Demonstrate a Telemetry Streaming **Pull Target** 
 
 
-.. image:: NAP_index swap.png
+.. image:: f5-ts-grafana.png
    :align: center
 
 .. toctree::
