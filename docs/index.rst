@@ -1,8 +1,8 @@
 .. You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to F5 Telemetry Streaming with Prometheus lab guide
-===========================================================
+Welcome to F5 Telemetry Streaming with Prometheus & Grafana lab guide
+=====================================================================
 
 **Lab goals:**
 
@@ -11,7 +11,7 @@ Welcome to F5 Telemetry Streaming with Prometheus lab guide
 **Other goals:** 
 
 - Leverage **DevOps tools** and **Declarative APIs** 
-- Demonstrate a Telemetry Streaming **Pull Target** 
+- Demonstrate deploying a Telemetry Streaming **Pull Target** configuration via F5 Automation Toolchain API
 
 
 **Demo readiness:** 
@@ -20,6 +20,7 @@ Welcome to F5 Telemetry Streaming with Prometheus lab guide
 
 .. image:: f5-ts-grafana.png
    :align: center
+   :alt: TS Prometheus Grafana diagram
 
 .. toctree::
    :maxdepth: 2
@@ -29,4 +30,5 @@ Welcome to F5 Telemetry Streaming with Prometheus lab guide
    class*/class*
 
    
-.. warning :: For any remark or mistake in this lab, please send a Teams chat to Gee Chow.
+.. note :: 
+   For any comments or questions, please send a Teams chat to Gee Chow.
