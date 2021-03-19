@@ -1,14 +1,20 @@
-Section 2 - Using DevOps tools    
-==============================
+Section 2 - Send a Telemetry Streaming Declaration    
+==================================================
 
 **Goals**: 
 ----------------
--  Become familair with VS Code
--  Connect the F5 VS Code Extension wit the BIG-IP instance
+-  Send a TS declaration to configure a TS Pull consumer target
+-  Verify success and view metrics available 
 
 **Steps**
 
-- Acess VS Code (web edition) in your UDF by going to: **Components > "Client & Prometheus" System Component > Access > VS Code** 
+- Click an are next to the "welcome" tab to open a new file window. 
+
+- Paste the follow TS declaration:
+ 
+::
+test
+
 
 .. image:: udf-vscode.png
    :alt: VS Code in UDF
@@ -19,5 +25,5 @@ Section 2 - Using DevOps tools
 
 .. image:: udf-vscode.png
    :alt: VS Code in UDF
-   
+
 - Click an are next to the "welcome" tab to open a new file window. Paste 
