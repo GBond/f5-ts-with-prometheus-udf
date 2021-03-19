@@ -2,7 +2,7 @@
    contain the root `toctree` directive.
 
 Welcome to F5 Telemetry Streaming with Prometheus lab guide
-==============================================
+===========================================================
 
 **Lab goals:**
 
