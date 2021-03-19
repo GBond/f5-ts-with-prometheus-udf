@@ -12,8 +12,7 @@ Section 2 - Send a Telemetry Streaming Declaration
 
 - Paste the follow TS declaration:
  
-::
-test
+.. include:: ts-pull.txt
 
 
 .. image:: udf-vscode.png
