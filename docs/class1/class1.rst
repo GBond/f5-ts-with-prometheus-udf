@@ -11,7 +11,7 @@ Module 1 - Using DevOps tools
 - Acess VS Code (web edition) in UDF by going to: Components > "Client & Prometheus" System Component > Access > VS Code 
 
 .. image:: udf-vscode.png
-:align: center
+
 
 - In VS Code, click the F5 Extension icon to the the Extension view. Verify that a host (F5 device) has already been added named "admin@10.1.1.7" and click on the name to connect.
 - Enter the password in the prompt: F5d3vops$. You are now connected to the device.
