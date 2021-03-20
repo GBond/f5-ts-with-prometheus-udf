@@ -1,12 +1,13 @@
 Section 1 - Using DevOps tools    
 ==============================
 
-**Goals**: 
-----------------
+
+**Goals:** 
+
 -  Become familair with VS Code
 -  Connect the F5 VS Code Extension wit the BIG-IP instance
 
-**Steps**
+**Steps:**
 
 - Acess VS Code (web edition) in your UDF by going to: **Components > "Client & Prometheus" System Component > Access > VS Code** 
 
