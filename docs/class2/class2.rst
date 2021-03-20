@@ -24,3 +24,6 @@ Section 2 - Send a Telemetry Streaming Declaration
    :alt: VS Code ts
 
 - Upon successful post of the declaration, a response from the system will appear as a new file. Verify a "success" message value. You have successfully posted the TS declaration to create a Pull target consumer on the BIG-IP. 
+
+.. image:: vscode-response.png
+   :alt: VS Code Response
