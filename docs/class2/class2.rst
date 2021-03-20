@@ -10,7 +10,7 @@ Section 2 - Send a Telemetry Streaming Declaration
 
 - Create a new file: in VS Code, click the hamburger icon (3 lines icon) > file > select "New File". 
 
-.. image:: vscode-new-file-select.png
+.. image:: vscode-select.png
    :alt: VS Code new file
 
 - Copy the follow TS declaration and paste it to the new file windows:
@@ -18,7 +18,10 @@ Section 2 - Send a Telemetry Streaming Declaration
 .. literalinclude:: ts-pull.json
   :language: JSON
 
+- Right-click the pasted JSON and select "Post as TS Declaration":
 
+.. image:: vscode-ts-code.png
+   :alt: VS Code ts
 
 
 
