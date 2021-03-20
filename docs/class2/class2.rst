@@ -13,7 +13,7 @@ Section 2 - Send a Telemetry Streaming Declaration
 .. image:: vscode-select.png
    :alt: VS Code new file
 
-- Copy the follow TS declaration and paste it to the new file windows:
+- Copy the follow TS declaration and paste it to the new file window:
  
 .. literalinclude:: ts-pull.json
   :language: JSON
