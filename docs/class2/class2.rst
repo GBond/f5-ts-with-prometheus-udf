@@ -10,14 +10,16 @@ Section 2 - Send a Telemetry Streaming Declaration
 
 - Click an are next to the "welcome" tab to open a new file window. 
 
+.. image:: vscode-new-file.png
+   :alt: VS Code new file
+   
 - Paste the follow TS declaration:
  
 .. literalinclude:: ts-pull.json
   :language: JSON
 
 
-.. image:: udf-vscode.png
-   :alt: VS Code in UDF
+
 
 
 - In VS Code, click the F5 Extension icon to the the Extension view. Verify that a host (F5 device) has already been added named "admin@10.1.1.7" and click on the name to connect.
