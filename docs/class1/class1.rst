@@ -5,7 +5,7 @@ Section 1 - Using DevOps tools
 **Goals:** 
 
 -  Become familair with VS Code
--  Connect the F5 VS Code Extension wit the BIG-IP instance
+-  Connect the F5 VS Code Extension to the BIG-IP instance
 
 **Steps:**
 
