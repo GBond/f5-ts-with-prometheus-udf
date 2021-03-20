@@ -9,7 +9,7 @@ Section 1 - Using DevOps tools
 
 **Steps:**
 
-- Acess VS Code (web edition) in your UDF by going to: **Components > "Client & Prometheus" System Component > Access > VS Code** 
+- Access VS Code (web edition) in your UDF by going to: **Components > "Client & Prometheus" System Component > Access > VS Code** 
 
 .. image:: udf-vscode.png
    :alt: VS Code in UDF
