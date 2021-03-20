@@ -8,7 +8,7 @@ Section 2 - Send a Telemetry Streaming Declaration
 
 **Steps:**
 
-- Create a new file: in VS Code, click the hamburger icon (3 lines icon) > select "File" > select "New File". 
+- Create a new file: **in VS Code, click the hamburger icon (3 lines icon) > select "File" > select "New File".**
 
 .. image:: vscode-select.png
    :alt: VS Code new file
