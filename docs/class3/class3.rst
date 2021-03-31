@@ -19,3 +19,7 @@ Section 3 - Verify available Metrics
 .. image:: send-request.png
    :alt: send request rest 
 
+- A response from the API call will appear. This is a raw output of the pull consumer you just created that will be pulled by Prometheus & Grafana.
+ 
+.. image:: metrics.png
+   :alt: full list of metrics 
