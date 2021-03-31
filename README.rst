@@ -1,14 +1,26 @@
-F5 readthedocs Template
-==================
+Welcome to the Git repository for the UDF F5 Telemetry Streaming with Prometheus & Grafana lab and lab guide.  
 
-This repository contains the source for F5 readthedocs Template. 
+**Lab goals:**
 
-To view the documentation please visit:
+- Demonstrate Robust F5 **BIG-IP visibility** and metrics for F5 BIGIP using **F5 Telemetry Streaming** with **Prometheus & Grafana**. 
 
-https://f5-readthedocs-template.readthedocs.io/en/latest/
+**Other goals:** 
+
+- Leverage **DevOps tools** and **Declarative APIs** 
+- Demonstrate deploying a Telemetry Streaming **Pull Target** configuration via F5 Automation Toolchain API
 
 
-Support
--------
+.. image:: f5-ts-grafana.png
+   :align: center
+   :alt: TS Prometheus Grafana diagram
 
-Bugs and enhancements can be made by opening an `issue <https://github.com/tkam8/f5-readthedocs-template/issues>`__ within the `GitHub <https://github.com/tkam8/f5-readthedocs-template>`__ repository.
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   :glob:
+
+   class*/class*
+
+   
+.. note :: 
+   For any comments or questions, please send a Teams chat to Gee Chow.
