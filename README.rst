@@ -14,5 +14,4 @@ Welcome to the Git repository for the UDF F5 Telemetry Streaming with Prometheus
    :align: center
    :alt: TS Prometheus Grafana diagram
    
-.. note :: 
-   For any comments or questions, please send a Teams chat to Gee Chow.
+Note: For any comments or questions, please send a Teams chat to Gee Chow.
