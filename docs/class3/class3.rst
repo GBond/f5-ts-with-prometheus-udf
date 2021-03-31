@@ -3,7 +3,7 @@ Section 3 - Verify available Metrics
 
 **Goals**: 
 
-- Verify the available metrics that will be pulled via Prometheus and Grafana.
+- Verify the available metrics that will be pulled via Prometheus and Grafana
 
 **Steps**: 
 
