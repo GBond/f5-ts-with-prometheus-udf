@@ -10,17 +10,9 @@ Welcome to the Git repository for the UDF F5 Telemetry Streaming with Prometheus
 - Demonstrate deploying a Telemetry Streaming **Pull Target** configuration via F5 Automation Toolchain API
 
 
-.. image:: f5-ts-grafana.png
+.. image:: docs/f5-ts-grafana.png
    :align: center
    :alt: TS Prometheus Grafana diagram
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   :glob:
-
-   class*/class*
-
    
 .. note :: 
    For any comments or questions, please send a Teams chat to Gee Chow.
