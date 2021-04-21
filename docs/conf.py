@@ -363,3 +363,6 @@ epub_exclude_files = ['search.html']
 #
 # epub_use_index = True
 
+
+def setup(app):
+    app.add_javascript('js/custom.js')
